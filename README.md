@@ -63,4 +63,4 @@ Navigate to: http://localhost:3000 to view the application
 
 ## Tutorial Video for the application
 
-Youtube Video Playlist [Click Here to Watch](https://www.youtube.com/playlist?list=PLYAUzWboAWPiKe1FA_SmdzoYW9R7_wLDL)
+Youtube Video Tutorial [Click Here to Watch](https://youtu.be/_aHKUBComZE)
